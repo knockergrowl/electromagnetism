@@ -2,7 +2,7 @@
 
 final static float M2NM = 0.000000001;
 
-float nm_exp = 0; 
+float nm_exp = 0;
 float nm = 0;
 
 void setup() {
