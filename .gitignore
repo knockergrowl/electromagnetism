@@ -1,5 +1,6 @@
 sketch.properties
 *.png
+*.svg
 .DS_Store
 applet
 application.linux32
